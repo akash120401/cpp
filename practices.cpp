@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//sssssss
 class car {
 	private : int price=1100;
 	
